@@ -1,0 +1,107 @@
+{
+  "user": {
+    "name": "Pooja Mishra",
+    "role": "Admin",
+    "avatar_url": ""
+  },
+  "hero": {
+    "tag": "ETHEREUM 2.0",
+    "title": "Top Rating Project",
+    "description": "Trending project and high rating Project Created by team.",
+    "cta_label": "Learn More."
+  },
+  "projects": [
+    {
+      "id": "p1",
+      "title": "Technology behind the Blockchain",
+      "project_number": "Project #1",
+      "subtitle": "See project details",
+      "thumbnail_url": "",
+      "is_featured": true
+    },
+    {
+      "id": "p2",
+      "title": "Technology behind the Blockchain",
+      "project_number": "Project #1",
+      "subtitle": "See project details",
+      "thumbnail_url": "",
+      "is_featured": false
+    },
+    {
+      "id": "p3",
+      "title": "Technology behind the Blockchain",
+      "project_number": "Project #1",
+      "subtitle": "See project details",
+      "thumbnail_url": "",
+      "is_featured": false
+    },
+    {
+      "id": "p4",
+      "title": "Decentralised Finance Platform",
+      "project_number": "Project #2",
+      "subtitle": "See project details",
+      "thumbnail_url": "",
+      "is_featured": false
+    }
+  ],
+  "creators": [
+    {
+      "id": "c1",
+      "username": "@maddison_c21",
+      "avatar_url": "",
+      "artworks": 9821,
+      "rating": 0.92
+    },
+    {
+      "id": "c2",
+      "username": "@karl.will02",
+      "avatar_url": "",
+      "artworks": 7032,
+      "rating": 0.78
+    },
+    {
+      "id": "c3",
+      "username": "@maddison_c21",
+      "avatar_url": "",
+      "artworks": 9821,
+      "rating": 0.88
+    },
+    {
+      "id": "c4",
+      "username": "@maddison_c21",
+      "avatar_url": "",
+      "artworks": 9821,
+      "rating": 0.7
+    }
+  ],
+  "performance": [
+    { "year": 2015, "pending": 24, "done": 22 },
+    { "year": 2016, "pending": 34, "done": 18 },
+    { "year": 2017, "pending": 16, "done": 30 },
+    { "year": 2018, "pending": 40, "done": 44 },
+    { "year": 2019, "pending": 20, "done": 16 },
+    { "year": 2020, "pending": 47, "done": 30 }
+  ],
+  "calendar": {
+    "year": 2023,
+    "month": 10,
+    "today": 27,
+    "highlighted_days": [27, 30],
+    "schedule_label": "GENERAL 10:00 AM TO 7:00 PM"
+  },
+  "birthdays": {
+    "title": "Today Birthday",
+    "people": [
+      { "id": "b1", "name": "Riya Sharma", "avatar_url": "" },
+      { "id": "b2", "name": "Aman Verma", "avatar_url": "" }
+    ]
+  },
+  "anniversaries": {
+    "title": "Anniversary",
+    "people": [
+      { "id": "a1", "name": "Neha Gupta", "avatar_url": "" },
+      { "id": "a2", "name": "Rahul Singh", "avatar_url": "" },
+      { "id": "a3", "name": "Sana Khan", "avatar_url": "" }
+    ]
+  }
+}
